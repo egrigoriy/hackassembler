@@ -1,7 +1,8 @@
 # Assembler for Hack Machine Language from nand2tetris written in java
 
 This is a Java implementation of a 16-bit machine language assembler for the Hack Assembly language. 
-It is written as part of the NandToTetris course: https://www.nand2tetris.org/project06
+It is written as part of the NandToTetris course: https://www.nand2tetris.org/project06.
+The Hack Language specifications can be found here: https://www.nand2tetris.org/project04.
 
 # Description
 
